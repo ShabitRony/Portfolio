@@ -44,6 +44,10 @@ header{
     top: 0;
     z-index: 100;
 }
+#home .hero_img{
+    border-radius: 50%;
+    overflow: hidden;
+}
 nav ul{
     display: flex;
     gap: 1.5rem;
